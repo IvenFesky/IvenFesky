@@ -116,6 +116,6 @@ My Many Obsessions:
 ## Contribution Skyline - 2022
 <p>
   <a href="https://skyline.github.com/ivenfesky/2022" target="_blank">
-    <img height="400" width="auto" src="https://skyline.github.com/ivenfesky/2022" alt="Skyline Github Contributon 2021" />
+    <img height="400" width="auto" src="https://github.com/IvenFesky/IvenFesky/rec-tab.gif" alt="Skyline Github Contributon 2021" />
   </a>
 </p>
