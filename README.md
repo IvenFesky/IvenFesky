@@ -49,11 +49,17 @@ My Many Obsessions:
   <a href="">Showwcase</a> •
   <a href="https://www.youtube.com/channel/UCRcovbduuOHShY-fLF0O5lw">Youtube</a>
 </p>
-<p align="left">
+
+<p>
+<a href="https://github.com/IvenFesky/IvenFesky/stargazers"><img src="https://img.shields.io/github/stars/IvenFesky/IvenFesky" alt="Stars Badge"/></a>
+<a href="https://github.com/IvenFesky/IvenFesky/network/members"><img src="https://img.shields.io/github/forks/IvenFesky/IvenFesky" alt="Forks Badge"/></a>
+<a href="https://github.com/IvenFesky/IvenFesky/pulls"><img src="https://img.shields.io/github/issues-pr/IvenFesky/IvenFesky" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/IvenFesky/IvenFesky/issues"><img src="https://img.shields.io/github/issues/IvenFesky/IvenFesky" alt="Issues Badge"/></a>
+<a href="https://github.com/IvenFesky/IvenFesky/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/IvenFesky/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/IvenFesky/IvenFesky/blob/master/LICENSE"><img src="https://img.shields.io/github/license/IvenFesky/IvenFesky?color=2b9348" alt="License Badge"/></a>
 <!-- Counting views, -->
 <!--<p>Since 16 February 2023</p>-->
 <img src=https://komarev.com/ghpvc/?username=IvenFesky alt=IvenFesky/>
-
 </p>
 
 <p align="right"><b>I live in Indonesia</b></p>
@@ -105,20 +111,6 @@ My Many Obsessions:
 <img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
  </div>
 
-
-
-<i>A curated list of awesome Github Profile READMEs</i>
-
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
-
-</div>
 
