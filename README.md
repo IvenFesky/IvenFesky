@@ -1,6 +1,7 @@
 ###
 
 <h1>👋 Welcome to my Profile!</h3>
+<img src="GITHUB/VenS.png" width="100%" height="500"/>
 
 # Hi, I'm Muhammad Iven Fesky
 
@@ -116,6 +117,6 @@ My Many Obsessions:
 ## Contribution Skyline - 2022
 <p>
   <a href="https://skyline.github.com/ivenfesky/2022" target="_blank">
-    <img height="400" width="auto" src="rec-tab.gif" alt="Skyline Github Contributon 2022" />
+    <img height="400" width="auto" src="GITHUB/rec-tab.gif" alt="Skyline Github Contributon 2022" />
   </a>
 </p>
