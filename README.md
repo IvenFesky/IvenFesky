@@ -33,7 +33,7 @@ My Many Obsessions:
   <a href="https://discordapp.com/users/536022513885642762">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="IvenFesky.github.io">
+  <a href="https://ivenfesky.github.io/">
     <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=website&logoColor=white" alt="Web Badge"/>
   </a>
   <a href="">
